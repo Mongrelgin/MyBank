@@ -1,0 +1,9 @@
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\bin\Debug\MyBank.exe.config
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\bin\Debug\MyBank.exe
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\bin\Debug\MyBank.pdb
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\obj\Debug\MyBank.csprojAssemblyReference.cache
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\obj\Debug\MyBank.exe
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\obj\Debug\MyBank.pdb
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\bin\Debug\MyBankLib.dll
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\bin\Debug\MyBankLib.pdb
+C:\Users\mongr\Desktop\GitProgs\BankProject\MyBank\MyBank\obj\Debug\MyBank.csproj.CopyComplete
